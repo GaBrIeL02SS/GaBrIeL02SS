@@ -1,4 +1,6 @@
-### Hi there 👋
+##Ola, meu nome é Gabriel e tenho 15 anos.
+##Estou interessado em aprender sobre programação.
+##Atualmente estou aprendendo linguagens como JavaScript e Scratch
 
 <!--
 **GaBrIeL02SS/GaBrIeL02SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
